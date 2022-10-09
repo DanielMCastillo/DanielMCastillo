@@ -7,7 +7,7 @@ My name is Daniel Alejandro Morales Castillo
 I'm a Software Engineering Student at <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow"> UAZ </a> 
 
 - Microsoft Learn Student Ambassador
-- IBM Zsystems Student Ambassador
+- IBM zSystems Student Ambassador
 
 I am passionate about technology, programming and science, I like to learn every day and I dream of being able to change the world.
 
@@ -15,7 +15,7 @@ I am passionate about technology, programming and science, I like to learn every
 ```
 "Until you start believing in yourself, you're not going to have a life".
 
-- Rocky 
+- Rocky Balboa
 ```
 
 </div>
