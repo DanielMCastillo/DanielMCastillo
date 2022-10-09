@@ -4,7 +4,7 @@
 
 <div>
 
-My name is Daniel Alejandro Morales Castillo from Mexico, I'm a Software Engineering Student at Universidad Autónoma de Zacatecas - <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow"> UAZ </a> 
+My name is Daniel Alejandro Morales Castillo, I'm a Software Engineering Student at Universidad Autónoma de Zacatecas - <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow"> UAZ </a> - Mexico 
 
 - Microsoft Learn Student Ambassador
 - IBM zSystems Student Ambassador
