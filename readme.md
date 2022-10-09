@@ -3,8 +3,8 @@
 ![GitHub Header](images/header.gif)
 
 <div>
-My name is Daniel Alejandro Morales Castillo
-I'm a Software Engineering Student at <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow"> UAZ </a> 
+
+My name is Daniel Alejandro Morales Castillo from Mexico, I'm a Software Engineering Student at Universidad Autónoma de Zacatecas - <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow"> UAZ </a> 
 
 - Microsoft Learn Student Ambassador
 - IBM zSystems Student Ambassador
