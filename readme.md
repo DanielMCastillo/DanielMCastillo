@@ -1,6 +1,6 @@
 
 
-![GitHub Header](images/header1.png)
+![GitHub Header](images/header.gif)
 
 <div>
 My name is Daniel Alejandro Morales Castillo
@@ -13,8 +13,9 @@ I am passionate about technology, programming and science, I like to learn every
 
 
 ```
-Until you start believing in yourself, you're not going to have a life.
+"Until you start believing in yourself, you're not going to have a life".
 
+- Rocky 
 ```
 
 </div>
@@ -33,7 +34,6 @@ Until you start believing in yourself, you're not going to have a life.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScrip)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/es-mx/free/search/?&ef_id=Cj0KCQiA6NOPBhCPARIsAHAy2zBNvfyMA1OmuYW4Mwn1eJlrIy0mKGJusN9CqEtbqfI_Rrf3UCjPmWkaAnrBEALw_wcB:G:s&OCID=AID2200215_SEM_Cj0KCQiA6NOPBhCPARIsAHAy2zBNvfyMA1OmuYW4Mwn1eJlrIy0mKGJusN9CqEtbqfI_Rrf3UCjPmWkaAnrBEALw_wcB:G:s&gclid=Cj0KCQiA6NOPBhCPARIsAHAy2zBNvfyMA1OmuYW4Mwn1eJlrIy0mKGJusN9CqEtbqfI_Rrf3UCjPmWkaAnrBEALw_wcB)
-
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com)
@@ -42,22 +42,13 @@ Until you start believing in yourself, you're not going to have a life.
 [![Db2](https://img.shields.io/badge/db2-0375CF?style=for-the-badge&logo=db2)](https://www.ibm.com/mx-es/db2)
 [![Mainframe](https://img.shields.io/badge/mainframe-000000?style=for-the-badge&logo=mainframe)](https://www.ibm.com/mx-es/db2)
 [![Zowe](https://img.shields.io/badge/zowe-004aad?style=for-the-badge&logo=zowe)](https://www.zowe.org)
-
-
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-
 [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/download/office.aspx?q=office)
-
-
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)
-
 [![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://es.overleaf.com)
-
-
 [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://github.com)
 [![Consola](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)]()
