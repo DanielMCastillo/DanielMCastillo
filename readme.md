@@ -13,7 +13,7 @@ I am passionate about technology, programming and science, I like to learn every
 
 
 ```
-"“Remember to look up at the stars and not down at your feet"
+“Remember to look up at the stars and not down at your feet“
 
 - Stephen Hawking
 ```
