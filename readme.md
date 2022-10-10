@@ -13,9 +13,9 @@ I am passionate about technology, programming and science, I like to learn every
 
 
 ```
-"Until you start believing in yourself, you're not going to have a life".
+"“Remember to look up at the stars and not down at your feet"
 
-- Rocky Balboa
+- Stephen Hawking
 ```
 
 </div>
