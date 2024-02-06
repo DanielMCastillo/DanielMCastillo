@@ -25,13 +25,6 @@ My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer
 
 <div align="center">
 <h2> GitHub Stats </h2>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMCastillo&layout=compact)](https://github.com/DanielMCastillo)
-
-<br>
-
-![DanielMCastillo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMCastillo&show_icons=true&theme=dark)
 <br>
 <div>
 
