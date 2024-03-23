@@ -4,7 +4,7 @@
 
 <div>
 
-My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer
+<h2> My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer </h2>
 
  <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px height=50px align="left"/>
 <b>Microsoft Learn Student Ambassador - 
@@ -25,6 +25,10 @@ My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer
 
 <div align="center">
 <h2> GitHub Stats </h2>
+
+ ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielamcastillo&show_icons=true&theme=transparent)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielamcastillo&layout=compact)
 <br>
 <div>
 
@@ -35,3 +39,4 @@ My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmcastillo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielalejandromoralescastillo@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)
+
