@@ -26,9 +26,9 @@
 <div align="center">
 <h2> GitHub Stats </h2>
 
- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielamcastillo&show_icons=true&theme=transparent)
+ ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmcastillo&show_icons=true&theme=transparent)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielamcastillo&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmcastillo&layout=compact)
 <br>
 <div>
 
