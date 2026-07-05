@@ -1,36 +1,54 @@
 ![GitHub Header](images/damc_se.gif)
 
-<div>
+<div align="center">
 
-<h1>Hi 👋, I'm Daniel Alejandro Morales Castillo</h1>
+# Hi 👋, I'm Daniel Alejandro Morales Castillo
+
+</div>
 
 <table>
 <tr>
-<td width="120">
+
+<td width="220" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/101815246?v=4"
+     width="200"
+     style="border-radius:50%;" />
+
+</td>
+
+<td width="350" align="center">
 
 <img
-  src="https://media.tenor.com/images/7b7d6d6f6d2f5f4e2a4d0d5e6b5f9c8f/tenor.gif"
-  width="100"
+    src="https://media1.tenor.com/m/7cBdXmfWEMoAAAAd/max-verstappen-drifting-max.gif"
+    width="320"
 />
 
 </td>
 
 <td>
 
-### 💼 Software Engineer at Oracle
+<h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+     width="40"
+     align="center">
+Software Engineer at Oracle
+</h2>
 
-Passionate about technology, programming, and science.
-I enjoy learning every day and aspire to build technology that positively impacts the world. 🚀🌎
+I'm passionate about technology,
+programming and science.
+
+I like to learn every day and I dream of
+being able to change the world. 🚀🌎
 
 </td>
+
 </tr>
 </table>
 
 > *"Remember to look up at the stars and not down at your feet."* 🪐☄️
 >
 > **— Stephen Hawking**
-
-</div>
 
 ---
 
@@ -47,7 +65,7 @@ I enjoy learning every day and aspire to build technology that positively impact
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,ts,,docker,postgres,mysql,azure,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,django,docker,postgres,mysql,git,github,azure,vscode" />
 </p>
 
 ---
@@ -55,11 +73,11 @@ I enjoy learning every day and aspire to build technology that positively impact
 # 🚀 Featured Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 </p>
 
 ---
@@ -82,6 +100,6 @@ I enjoy learning every day and aspire to build technology that positively impact
 
 <div align="center">
 
-### 🏎️ "Code. Learn. Build. Repeat."
+### 🚀 Code. Learn. Build. Repeat.
 
 </div>
