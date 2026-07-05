@@ -40,7 +40,6 @@ I enjoy learning every day and aspire to build technology that positively impact
 - 🎓 Software Engineering graduate from **Universidad Autónoma de Zacatecas**
 - 🌱 Currently learning **Cloud, Data Engineering and AI**
 - 💻 Interested in **Backend Development, Data Engineering and Software Architecture**
-- 🏎️ Formula 1 enthusiast
 - 🚀 Passionate about building impactful software
 
 ---
@@ -48,7 +47,7 @@ I enjoy learning every day and aspire to build technology that positively impact
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,ts,react,nodejs,docker,postgres,mysql,git,github,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,ts,,docker,postgres,mysql,azure,vscode" />
 </p>
 
 ---
