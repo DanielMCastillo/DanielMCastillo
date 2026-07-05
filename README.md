@@ -2,24 +2,24 @@
 
 <div>
 
-<h2>My name is Daniel Alejandro Morales Castillo, I'm a Software Engineer</h2>
+<h2>Hi 👋, I'm Daniel Alejandro Morales Castillo</h2>
 
-<img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s"
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
      width="55"
-     height="50"
+     height="55"
      align="left"/>
 
-<b>Microsoft Learn Student Ambassador - IBM zSystems Student Ambassador</b>
+<b>Software Engineer at Oracle</b>
 
 <br>
 <br>
 
 <p>
-I am passionate about technology, programming and science.
-I like to learn every day and I dream of being able to change the world. 🚀🌎
+I'm a Software Engineer passionate about technology, programming, and science.
+I enjoy learning every day and aspire to build technology that positively impacts the world. 🚀🌎
 </p>
 
-> "Remember to look up at the stars and not down at your feet" 🪐☄
+> "Remember to look up at the stars and not down at your feet." 🪐☄️
 >
 > — Stephen Hawking
 
@@ -27,22 +27,28 @@ I like to learn every day and I dream of being able to change the world. 🚀�
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## GitHub Stats
+- 💼 Software Engineer at **Oracle**
+- 🎓 Software Engineering graduate from **Universidad Autónoma de Zacatecas**
+- 🌱 Currently learning **Cloud, Data Engineering and AI**
+- 💻 Interested in **Backend Development, Data Engineering and Software Architecture**
+- 🚀 Passionate about creating impactful software
 
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,java,js,react,docker,git,github,postgres,mysql,azure,vscode" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p>
 <a href="https://github.com/DanielMCastillo">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DanielMCastillo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  />
+<img src="https://img.shields.io/badge/GitHub-DanielMCastillo-181717?style=for-the-badge&logo=github" />
 </a>
-
-<a href="https://github.com/DanielMCastillo">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMCastillo&layout=compact&theme=github_dark&hide_border=true"
-  />
-</a>
-
-</div>
+</p>
