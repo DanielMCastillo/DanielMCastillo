@@ -64,12 +64,6 @@ being able to change the world. 🚀🌎
     src="https://streak-stats.demolab.com?user=DanielMCastillo&theme=transparent&hide_border=true"
 />
 
-<br><br>
-
-<img
-    src="https://github-profile-trophy.vercel.app/?username=DanielMCastillo&theme=onedark&no-frame=true&row=1&column=6"
-/>
-
 </div>
 
 ---
@@ -106,12 +100,6 @@ being able to change the world. 🚀🌎
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DanielMCastillo&style=for-the-badge"/>
 </p>
 
 ---
