@@ -19,9 +19,11 @@
 <td>
 
 <h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-     width="40"
-     align="center">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+    width="40"
+    align="center"
+/>
 Software Engineer at Oracle
 </h2>
 
@@ -29,7 +31,7 @@ I'm passionate about technology,
 programming and science.
 
 I like to learn every day and I dream of
-being able to change the world. 🌎
+being able to change the world. 🚀🌎
 
 </td>
 
@@ -54,26 +56,18 @@ being able to change the world. 🌎
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=DanielMCastillo&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
-/>
-
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMCastillo&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
-/>
-
-</div>
+# 📊 GitHub Activity
 
 <div align="center">
 
 <img
     src="https://streak-stats.demolab.com?user=DanielMCastillo&theme=transparent&hide_border=true"
+/>
+
+<br><br>
+
+<img
+    src="https://github-profile-trophy.vercel.app/?username=DanielMCastillo&theme=onedark&no-frame=true&row=1&column=6"
 />
 
 </div>
@@ -112,6 +106,12 @@ being able to change the world. 🌎
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DanielMCastillo&style=for-the-badge"/>
 </p>
 
 ---
