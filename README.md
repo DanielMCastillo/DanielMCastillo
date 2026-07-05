@@ -1,9 +1,6 @@
 ![GitHub Header](images/damc_se.gif)
 
 <div align="center">
-
-# Hi 👋, I'm Daniel Alejandro Morales Castillo
-
 <table>
 <tr>
 
