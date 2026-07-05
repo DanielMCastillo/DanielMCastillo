@@ -31,7 +31,7 @@ I'm passionate about technology,
 programming and science.
 
 I like to learn every day and I dream of
-being able to change the world. 🚀🌎
+being able to change the world.🌎
 
 </td>
 
