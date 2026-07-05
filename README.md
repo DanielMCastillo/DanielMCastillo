@@ -4,18 +4,8 @@
 
 # Hi 👋, I'm Daniel Alejandro Morales Castillo
 
-</div>
-
 <table>
 <tr>
-
-<td width="220" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/101815246?v=4"
-     width="200"
-     style="border-radius:50%;" />
-
-</td>
 
 <td width="350" align="center">
 
@@ -50,6 +40,8 @@ being able to change the world. 🚀🌎
 >
 > **— Stephen Hawking**
 
+</div>
+
 ---
 
 # 👨‍💻 About Me
@@ -59,6 +51,32 @@ being able to change the world. 🚀🌎
 - 🌱 Currently learning **Cloud, Data Engineering and AI**
 - 💻 Interested in **Backend Development, Data Engineering and Software Architecture**
 - 🚀 Passionate about building impactful software
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=DanielMCastillo&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
+/>
+
+<img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMCastillo&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+    src="https://streak-stats.demolab.com?user=DanielMCastillo&theme=transparent&hide_border=true"
+/>
+
+</div>
 
 ---
 
